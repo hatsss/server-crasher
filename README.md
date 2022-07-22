@@ -1,2 +1,2 @@
 # server-crasher
-instant server crasher universal (may need to wait 25 seconds until unfreeze or 1 min depends on pc lol)
+instant server crasher (re execute if it doesnt work) i found a new method so no more freezing
